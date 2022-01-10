@@ -1,0 +1,1 @@
+# git status - kuzatilmayotgan faylni aniqlaydi
